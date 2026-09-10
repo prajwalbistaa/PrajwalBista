@@ -1,7 +1,5 @@
 ### Still learning :)
 
----
-
 ### Languages and Tools :
 
 <p>
