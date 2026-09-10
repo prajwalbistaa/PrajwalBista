@@ -22,7 +22,7 @@
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prajwalbistaa&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<img src="https://raw.githubusercontent.com/prajwalbistaa/PrajwalBista/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/prajwalbistaa/output/github-snake-dark.svg" />
 
 ---
 
