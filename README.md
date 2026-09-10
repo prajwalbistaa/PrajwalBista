@@ -15,7 +15,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prajwalbistaa&layout=compact&theme=dark&hide_border=true&langs_count=6" height="170" width ="300" alt="languages graph" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prajwalbistaa&layout=compact&theme=dark&hide_border=true&langs_count=6" height="170" width ="600" alt="languages graph" />
 
 ---
 
