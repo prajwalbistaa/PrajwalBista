@@ -15,7 +15,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
 
-<img src="https://github-readme-stats-mauve-nine-96.vercel.app/api/top-langs?username=prajwalbistaa&cache_seconds=1&locale=en&hide_title=false&layout=compact&card_width=310&langs_count=8&theme=dark&background=000000&hide_border=false&include_all_commits=true&count_private=true&hide=html" height="170" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalbistaa&layout=compact&theme=dark&hide_border=true" height="170" alt="languages graph" />
 
 ---
 
@@ -25,7 +25,6 @@
 <br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwalbistaa/PrajwalBista/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwalbistaa/PrajwalBista/output/github-snake.svg">
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/prajwalbistaa/PrajwalBista/output/github-snake.svg">
 </picture>
 
