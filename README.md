@@ -24,8 +24,8 @@
 
 <br clear="both">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwalbistaa/PrajwalBista/output/github-snake-dark.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/prajwalbistaa/PrajwalBista/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwalbistaa/prajwalbistaa/output/github-snake-dark.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/prajwalbistaa/prajwalbistaa/output/github-snake.svg">
 </picture>
 
 ---
