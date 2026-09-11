@@ -20,12 +20,12 @@
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prajwalbistaa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prajwalbistaa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br clear="both">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwalbistaa/prajwalbistaa/output/github-snake-dark.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/prajwalbistaa/prajwalbistaa/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwalbistaa/prajwalbistaa/output/github-snake-dark.svg?v=2">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/prajwalbistaa/prajwalbistaa/output/github-snake.svg?v=2">
 </picture>
 
 ---
