@@ -20,7 +20,7 @@
 ---
 
 ### My Stats :
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prajwalbistaa)](https://git.io/streak-stats)
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/prajwalbistaa/prajwalbistaa/output/github-snake-dark.svg" />
