@@ -23,7 +23,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prajwalbistaa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/prajwalbistaa/prajwalbistaa/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/prajwalbistaa/prajwalbistaa/output/github-snake-dark.svg?v=2" alt="GitHub Contribution Snake">
 ---
 
 ### Connect on LinkedIn : 
